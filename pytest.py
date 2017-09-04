@@ -4,7 +4,7 @@ class Test(object):
         pass
 
     def print_something(self):
-        print("Hello world")
+        print("World Hello")
 
 if __name__ == "__main__":
     test = Test()
